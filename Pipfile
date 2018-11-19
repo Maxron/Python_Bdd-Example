@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+behave = "*"
+pyhamcrest = "*"
+
+[packages]
+behave = "*"
+
+[requires]
+python_version = "3.6"
